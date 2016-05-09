@@ -1,7 +1,7 @@
 name: ai.luca
 favicon: null
-layout_spectrum: 0.11017023422755301
-typography_spectrum: 0.48712636437267065
+layout_spectrum: 0
+typography_spectrum: 0.49517
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8324390309862792
-  lightness: 0.8104569539427757
-  saturation: 0.7384740696288645
-  rhythmicContrast: 0.7352986324112862
+    - '#ffb100'
+    - '#fbfeff'
+    - '#040000'
+    - '#c76c00'
+    - '#553e00'
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
