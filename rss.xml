@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ai.luca]]></title>
         <description><![CDATA[ai.luca]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ai-luca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 12:58:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 13:19:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ai-luca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/408233c0-76a0-4063-8787-bffc92e5e971.jpg">]]></description>
-            <link>undefinedhello-this-is-my-first-ai-powered-website/index.html</link>
+            <title><![CDATA[Hello! this is my first AI powered website ]]></title>
+            <description><![CDATA[<article><h1>Hello! this is my first AI powered website </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b00f6b55d8f71b49b7ec08148f3943031058286c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ai-luca/hello-this-is-my-first-ai-powered-website/index.html</link>
             <guid isPermaLink="false">3fa4cc50-32f9-42d1-9fda-d574b949d9d5</guid>
-            <pubDate>Mon, 09 May 2016 12:58:45 GMT</pubDate>
+            <pubDate>Mon, 09 May 2016 13:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
