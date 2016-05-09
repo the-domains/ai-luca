@@ -1,7 +1,7 @@
 name: ai.luca
 favicon: null
-layout_spectrum: 0.75394
-typography_spectrum: 0.34849
+layout_spectrum: 1
+typography_spectrum: 0.38852
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#040000'
     - '#c76c00'
     - '#553e00'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
